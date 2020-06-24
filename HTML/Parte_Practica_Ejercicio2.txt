@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CARTELERA>
+    <Pelicula>
+        <Codigo> 0012934 </Codigo>
+        <Titulo> Rapidos Y Furiosos 3 </Titulo>
+        <Año>2006</Año>
+        <Duracion> 
+                  <horas> 2 </horas>
+                  <minutos> 30 </minutos>
+                  <segundos> 25 </segundos>
+        </Duracion>
+        <Nacionalidad>Estados Unidos</Nacionalidad>
+        <Genero>Accion</Genero>
+        <Clasificacion>Mayores a 15 años</Clasificacion>
+        <Director> 
+                  <nombre> Justin </nombre>
+                  <apellido> Lin </apellido>
+                  <fechadenacimiento>Octubre 11 de 1973
+                     <año> 1973</año>
+                     <mes> Octubre </mes>
+                     <dia> 11 </dia>
+                  </fechadenacimiento>                           
+        </Director>
+                
+        <Reparto> 
+            <ActoresPrincipales>
+
+             <NombresOriginales>
+              <Actor1>Lucas Black </Actor1>
+              <Actor2>Sung Kang </Actor2> 
+              <Actor3>Bow Wow </Actor3> 
+              <Actor4> Nathalie Kelley </Actor4>  
+             </NombresOriginales>
+
+             <NombreEnPelicula> 
+               <Actor1>Sean Boswell </Actor1>
+              <Actor2>Han Lue </Actor2> 
+              <Actor3>Bow Wow </Actor3> 
+              <Actor4> Neela </Actor4>
+             </NombreEnPelicula>
+
+           </ActoresPrincipales>
+
+            <ActoresSecundarios> 
+
+              <NombresOriginales> 
+              <Actor1>Brian Tee</Actor1>
+              <Actor2>Zachery Ty </Actor2> 
+              <Actor3>Nikki Griffin </Actor3> 
+
+               </NombresOriginales>
+
+              <NombreEnPelicula> 
+              <Actor1>D.K Tekachi</Actor1>
+              <Actor2>Clay </Actor2> 
+              <Actor3>Cyndy</Actor3> 
+               </NombreEnPelicula>
+              </ActoresSecundarios>
+            <Dobles>
+             <NombresOriginales>
+             <D1> Keiko Kitagawa </D1>
+             <D2> Traula Marcus </D2>
+             <D3> Damien Marzelle </D3>
+             </NombresOriginales>
+             <AquienSustiruye> 
+              <D1> Reiko </D1>
+             <D2> America </D2>
+             <D3> Clows </D3>
+             </AquienSustiruye>
+           </Dobles>
+       </Reparto>
+       <Sinopsis> 
+Sean Boswell siempre se ha sentido como un intruso, pero él se define a sí mismo a través de sus victorias como corredor callejero de autos. Su pasatiempo lo vuelve impopular con las autoridades, así que se va a vivir con su padre a Japón. Una vez allá, y aún más enajenado, Sean descubre un nuevo deporte emocionante, pero peligroso. Las apuestas son muy altas cuando Sean se enfrenta al campeón local y se enamora de su novia.
+
+     </Sinopsis>
+
+    </Pelicula>   
+    
+</CARTELERA>
